@@ -9,12 +9,12 @@ A space to explore datasets, practice analytics, and tell clear data stories. Th
 - Grow a portfolio that shows analytical range and real impact.
 
 ## Project Gallery
-| Project | Summary | Tech | Status |
+| Project | Summary | Tools | Status |
 |---|---|---|---|
 | **MLB Payroll vs Performance (2015–2024)** | How team payroll relates to wins, run differential, and titles. Adds efficiency metrics like cost per win. | python | Polishing |
-| **Google Trends Minis (Soon to be uploaded)** | Small, fast analyses that test ideas using search interest time series. | python | In progress |
-| **Vaccine Data Minis (Soon to be uploaded)** | A look into measle outbreak and vaccine trends. | python | In progress |
-| **Weather Forecasting Sandbox (Soon to be uploaded)** | Feature engineering and simple baselines for forecasting. | python | Backlog |
+| **Google Trends Minis** | Small, fast analyses that test ideas using search interest time series. | python | In progress (Soon to be uploaded) |
+| **Vaccine Data Minis** | A look into measle outbreak and vaccine trends. | python | In progress (Soon to be uploaded) |
+| **Weather Forecasting Sandbox** | Feature engineering and simple baselines for forecasting. | python | Backlog |
 
  
 ## What to expect
